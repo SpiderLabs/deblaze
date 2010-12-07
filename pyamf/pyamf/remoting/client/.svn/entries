@@ -1,0 +1,41 @@
+8
+
+dir
+2195
+http://svn.pyamf.org/pyamf/trunk/pyamf/remoting/client
+http://svn.pyamf.org
+
+
+
+2009-02-14T16:10:25.334721Z
+2187
+thijs
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2dde4cc4-cf3c-0410-b1a3-a9b8ff274da5
+
+__init__.py
+file
+
+
+
+
+2009-02-18T16:43:03.000000Z
+a2580d17f9634c83772abe1ec8fcb867
+2009-02-14T16:10:25.334721Z
+2187
+thijs
+has-props
+

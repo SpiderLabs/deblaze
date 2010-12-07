@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2187/pyamf/trunk/pyamf/remoting
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2171/pyamf/trunk/pyamf/remoting/__init__.py
+END
+amf0.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1959/pyamf/trunk/pyamf/remoting/amf0.py
+END
+amf3.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/2113/pyamf/trunk/pyamf/remoting/amf3.py
+END

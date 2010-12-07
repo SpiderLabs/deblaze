@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/2260/pyamf/trunk/cpyamf
+END
+amf3.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/2174/pyamf/trunk/cpyamf/amf3.pyx
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1959/pyamf/trunk/cpyamf/__init__.py
+END
+amf3.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2154/pyamf/trunk/cpyamf/amf3.c
+END
+util.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/2174/pyamf/trunk/cpyamf/util.pyx
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2154/pyamf/trunk/cpyamf/util.c
+END

@@ -1,0 +1,54 @@
+8
+
+dir
+2195
+http://svn.pyamf.org/pyamf/trunk/pyamf/util
+http://svn.pyamf.org
+
+
+
+2009-01-26T21:31:35.096100Z
+2113
+thijs
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2dde4cc4-cf3c-0410-b1a3-a9b8ff274da5
+
+imports.py
+file
+
+
+
+
+2009-02-18T16:43:04.000000Z
+c76d44943180504e650d974f541fdf37
+2008-11-22T22:11:23.000254Z
+1774
+nick
+has-props
+
+__init__.py
+file
+
+
+
+
+2009-02-18T16:43:04.000000Z
+a7a32bfd00d40fb23e66447408869ef9
+2009-01-26T21:31:35.096100Z
+2113
+thijs
+has-props
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/2264/pyamf/trunk
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1959/pyamf/trunk/LICENSE.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2264/pyamf/trunk/INSTALL.txt
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1918/pyamf/trunk/ez_setup.py
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2261/pyamf/trunk/CHANGES.txt
+END
+THANKS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1903/pyamf/trunk/THANKS.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/2189/pyamf/trunk/setup.py
+END
+MAINTAINERS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1901/pyamf/trunk/MAINTAINERS.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/2256/pyamf/trunk/README.txt
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1774/pyamf/trunk/setup.cfg
+END

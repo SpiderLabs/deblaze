@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/2060/pyamf/trunk/pyamf/remoting/gateway
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1959/pyamf/trunk/pyamf/remoting/gateway/wsgi.py
+END
+google.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1959/pyamf/trunk/pyamf/remoting/gateway/google.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1959/pyamf/trunk/pyamf/remoting/gateway/__init__.py
+END
+django.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1959/pyamf/trunk/pyamf/remoting/gateway/django.py
+END
+twisted.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/2060/pyamf/trunk/pyamf/remoting/gateway/twisted.py
+END

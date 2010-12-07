@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2174/pyamf/trunk/pyamf/adapters
+END
+_decimal.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2174/pyamf/trunk/pyamf/adapters/_decimal.py
+END
+_sets.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1959/pyamf/trunk/pyamf/adapters/_sets.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/2174/pyamf/trunk/pyamf/adapters/util.py
+END
+_django_db_models_query.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/2113/pyamf/trunk/pyamf/adapters/_django_db_models_query.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2169/pyamf/trunk/pyamf/adapters/__init__.py
+END
+_django_db_models_fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/2169/pyamf/trunk/pyamf/adapters/_django_db_models_fields.py
+END
+_sqlalchemy.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/2113/pyamf/trunk/pyamf/adapters/_sqlalchemy.py
+END
+_django_db_models_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/2174/pyamf/trunk/pyamf/adapters/_django_db_models_base.py
+END
+_google_appengine_ext_db.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1959/pyamf/trunk/pyamf/adapters/_google_appengine_ext_db.py
+END

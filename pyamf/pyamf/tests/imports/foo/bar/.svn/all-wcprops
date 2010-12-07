@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1774/pyamf/trunk/pyamf/tests/imports/foo/bar
+END
+baz.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1774/pyamf/trunk/pyamf/tests/imports/foo/bar/baz.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1774/pyamf/trunk/pyamf/tests/imports/foo/bar/__init__.py
+END
+gak.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1774/pyamf/trunk/pyamf/tests/imports/foo/bar/gak.py
+END

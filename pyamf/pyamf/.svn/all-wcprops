@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/2187/pyamf/trunk/pyamf
+END
+sol.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1959/pyamf/trunk/pyamf/sol.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/2177/pyamf/trunk/pyamf/__init__.py
+END
+amf0.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2171/pyamf/trunk/pyamf/amf0.py
+END
+amf3.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2154/pyamf/trunk/pyamf/amf3.py
+END
+logging.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1959/pyamf/trunk/pyamf/logging.py
+END
