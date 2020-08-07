@@ -6,7 +6,9 @@
           \/    \/       \/          \/      \/    \/ 
     jrose@owasp.org | jrose@trustwave.com | github.com/SpiderLabs
 
-:warning: *NOTE: This tool is no longer under active maintenance.*
+
+**** NOTE: This tool is no longer under active maintenance. ****
+
 
 INTRODUCTION
 ============
